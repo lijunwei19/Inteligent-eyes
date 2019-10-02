@@ -1,1 +1,1 @@
-# Inteligent-eyes
+# EC602 Inteligent-home-robot
