@@ -23,5 +23,5 @@ They are the kind of device which are controled by human voice. They can underst
   - Hardware: raspberry Pi 3 B module, camera, microphone, small monitor, sevor motor, speaker;
   - softeware: opencv library, face recognization library, Jasper; 
   - (asper is an open source platform for developing always-on, voice-controlled applications)
-  Reason: For hardware, I also consider Arduino, but Arduino is not good at vision analysis. Raspberry is a small computer. that is more powerful. For softeware, there are so many ways to do voice analysis and visison analysis, but I think personal data is really privat especialiy for home information. 
+  -  Reason: For hardware, I also consider Arduino, but Arduino is not good at vision analysis. Raspberry is a small computer. that is more powerful. For softeware, there are so many ways to do voice analysis and visison analysis, but I think personal data is really privat especialiy for home information. 
   
