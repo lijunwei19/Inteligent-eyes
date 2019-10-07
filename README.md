@@ -7,7 +7,7 @@ For families, and people who are busy, our project can help them to control many
 ## Target User(s)
 1. Families.
 
- 2.People who are very busy.
+2. People who are very busy.
 
 ## User Stories
 - Family members/users, can able to turn on the program through the face recognition. Face recognition is like switch.
