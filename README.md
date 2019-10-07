@@ -7,7 +7,7 @@ For families, and people who are busy, our project can help them to control many
 ## Target User(s)
 1. Families.
 
-2.People who are very busy.
+ 2.People who are very busy.
 
 ## User Stories
 - Family members/users, can able to turn on the program through the face recognition. Face recognition is like switch.
@@ -25,8 +25,8 @@ A robot that can be controled by voice and has face tracking function.
 
 
 ##  Product Survey
-  1.   GOOGLE HOME MINI 
-  2.   AMAZON ECHO
+ 1.   GOOGLE HOME MINI 
+ 2.   AMAZON ECHO
   
 They are the kind of device which are controled by human voice. They can understand what human language. they are a kind of assistants.
 
