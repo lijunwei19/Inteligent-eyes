@@ -2,7 +2,7 @@
 ### Team members: Junwei Li, Jingyi Li
 
 ## Product Mission
-For families, and people who are busy, our project can help them to control many household appliances through user's commands. The appearance of our project is a robot. It can improve the quality of people's life and it can let people living more convient and automatic and it just work for people who they had known through face recognition. There for it can not only save time for users, but also ensure the security of users' information. Our project is really like google home mini, but add more functions on it.
+For families, and people who are busy, our project can help them to control many household appliances through user's commands. The appearance of our project is a robot. It can improve the quality of people's life and it can let people living more convnient and automatic and it just work for people who they had known through face recognition. Therefor, it can not only save time for users, but also ensure the security of users' information. Our project is really like google home mini, but add more functions on it.
 
 ## Target User(s)
 1. Families.
