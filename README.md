@@ -51,3 +51,11 @@ They are the kind of device which are controled by human voice. They can underst
   - (asper is an open source platform for developing always-on, voice-controlled applications)
   
   -  Reason: For hardware, I also consider Arduino, but Arduino is not good at vision analysis. Raspberry is a small computer. that is more powerful. For softeware, there are so many ways to do voice analysis and visison analysis, but I think personal data is really privat especialiy for home information. 
+
+## reference
+ Face recognition: https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+ Linux os dowload: https://www.raspberrypi.org/downloads/raspbian/
+ Homeassistant install: https://www.home-assistant.io/hassio/installation/
+ alexa install: https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/set-up-raspberry-pi.html
+ alexa custom skills: https://developer.amazon.com/en-US/docs/alexa/custom-skills/understanding-custom-skills.html
+ 
